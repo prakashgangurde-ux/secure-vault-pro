@@ -70,7 +70,7 @@ Setup
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/secure-vault-pro.git](https://github.com/yourusername/secure-vault-pro.git)
+git clone [https://github.com/prakashgangurde-ux/secure-vault-pro.git](https://github.com/prakashgangurde-ux/secure-vault-pro.git)
 cd secure-vault-pro
 
 
